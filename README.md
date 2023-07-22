@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/interactive-rating-component](https://www.frontendmentor.io/solutions/interactive-rating-component)
+- Solution URL: [frontendmentor.io/solutions/interactive-rating-component](https://www.frontendmentor.io/solutions/interactive-rating-component-7Z5i8-iL8H)
 - Live Site URL: [abulhashim.github.io/Interactive-Rating-Component](https://abulhashim.github.io/Interactive-Rating-Component/)
 
 ## My process
