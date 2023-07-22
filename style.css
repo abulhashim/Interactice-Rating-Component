@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input[type="radio"]:checked + .custom-radio {
+    background-color: hsl(25, 97%, 53%);
+    color: #fff;
+}
